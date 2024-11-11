@@ -1,0 +1,7 @@
+
+
+
+
+resource "welcome" "name" {
+  
+}
